@@ -1,0 +1,27 @@
+
+Title: VERSION_RECORD(版本记录)
+
+
+/******************************************************************************
+  * @version    V1.2
+  * @author     huakai.han
+  * @date       2018-04-21
+  * @attention
+    1.
+    2.
+    3.
+    4.
+    5.
+******************************************************************************/ 
+
+
+
+AirCleanTask
+ManualAirCleanTask
+ScreenRefreshTask
+KeyControlTask
+CloseFanTask
+ScheduledTask
+CycleCheckTask
+DetectOverflowTask
+WifiNetHandleTask
